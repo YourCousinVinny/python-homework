@@ -1,1 +1,7 @@
 Financial Analysis.
+
+There are 86 months in this data set
+The net Profit/Loss in this data set is: $ 38382578
+The average change is: $ -2315.12
+The biggest increase in profits were Feb-2012 which was $ 1926159
+The biggest Decrease in profits were Sep-2013 which was $ -2196167
